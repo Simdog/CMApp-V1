@@ -19,7 +19,7 @@
 <body id="indexHome">
 <%
 %>
-<c:if test="${statut == 'ADMIN'}">
+<c:if test="${statuts== 'ADMIN'}">
 ...
 </c:if>
 
